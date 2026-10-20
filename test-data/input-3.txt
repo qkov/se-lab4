@@ -1,0 +1,3 @@
+# SINGLE: Hibas primary eseten nincs fallback, a loves sikertelen
+GT4500,10,1.0,10,0
+TORPEDO,SINGLE
