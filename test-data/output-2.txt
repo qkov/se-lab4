@@ -1,0 +1,2 @@
+SUCCESS  # <- GT4500
+SUCCESS  # <- TORPEDO (Mivel a secondary-bol sikeresen lott)

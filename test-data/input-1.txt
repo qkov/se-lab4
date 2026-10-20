@@ -1,0 +1,4 @@
+# SINGLE: Valtakozo tuzeles ellenorzese
+GT4500,10,0,10,0
+TORPEDO,SINGLE  # First shot (Primary)
+TORPEDO,SINGLE  # Second shot (Secondary)
